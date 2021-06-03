@@ -1,6 +1,10 @@
 ## Welcome to my README! :vulcan_salute:
 ### Management
-I am the manager of Product Engineering at Reading Plus.
+I am the manager of Product Engineering at Reading Plus.  To see my thoughts on management, please see ...
+
+### Cycling
+
+### Rowing
 
 <!--
 **ewaite/ewaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
