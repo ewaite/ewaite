@@ -1,6 +1,6 @@
 ## Welcome to my README! :vulcan_salute:
 ### :crystal_ball: Management 
-I am the manager of Product Engineering at Reading Plus.  To see my thoughts on management, please see ...
+I am the manager of Product Engineering at Reading Plus.  To see my thoughts on management, please see [management](https://github.com/ewaite/management)
 
 ### :bike: Cycling 
 
