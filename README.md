@@ -1,5 +1,4 @@
 ## Welcome to my README! :vulcan_salute:
-### :crystal_ball: Management 
 
 ### :bike: Cycling 
 
